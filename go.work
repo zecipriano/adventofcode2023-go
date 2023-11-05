@@ -1,0 +1,7 @@
+go 1.21.3
+
+use (
+	./tutorials/create-module/greetings
+	./tutorials/create-module/hello
+	./tutorials/hello
+)
